@@ -1,0 +1,12 @@
+.container{
+	padding-top: 30px;
+}
+h1{
+	letter-spacing: 4px;
+	color: #033b96;
+}
+#update{
+	background-color: #5aff4f;
+	text-align: center;
+	color: pink;
+}

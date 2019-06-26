@@ -1,0 +1,30 @@
+h2{
+	padding-top: 20px;
+	text-align: center;
+	color: #0442a5;
+}
+p{
+	text-align: center;
+	padding-bottom: 30px;
+}
+a{
+	color: #052559;
+}
+a:hover{
+	color: #3a0209;
+}
+form{
+	margin-left: 25%;
+}
+label{
+	padding-top: 7px;
+}
+
+@media only screen and (max-width: 800px) {
+  form {
+    margin:auto;
+  }
+}
+.btn{
+	background-color: #0442a5;
+}

@@ -1,0 +1,19 @@
+index.php -> 
+contact.html -> session
+browseSale.php ->
+browseRent.php
+buddy.php -> remove button if the logged in user already has posted
+buddySignUp.php
+movers.php
+connection.php
+session.php
+footers.php
+ad.php 
+logout.php
+login.php
+signUp.php -> after signUp should redirect to profile page
+profile.php -> ask before delete?
+postAd.php --> cant upload multiple images --> DB not optimized in that manner to handle multiple entries for one row
+dbpage.php
+dbPage2.php
+admin.php

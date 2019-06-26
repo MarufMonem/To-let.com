@@ -1,0 +1,15 @@
+i{
+	padding: 7px;
+}
+#logo{
+	height: 40px;
+	padding-right: 10px;
+}
+.container{
+	padding-top: 50px;
+	text-align:center;
+	margin: auto;
+}
+.cards{
+	margin:auto;
+}

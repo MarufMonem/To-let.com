@@ -1,0 +1,63 @@
+.jumbotron {
+	background-color: white;
+	color: #2b78c1;
+	text-align: center;
+}
+.display-3{
+	font-weight: bold;
+}
+.card{
+	border: none;
+	display: contents;
+	margin: auto;
+	float: none;
+}
+#options{
+	text-align:center;
+}
+i{
+	padding: 7px;
+}
+
+#logo2{
+	height: 80px;
+	padding-right: 10px;
+}
+.navbar{
+		background-color:#1f1f21;
+}
+td{
+	text-align: center;
+	width: 20%;
+}
+.container2{
+	padding-left: 4%;
+}
+
+.title{
+	font-size: 26px;
+	padding-top: 15px;
+}
+
+/*.titleImg1{
+	width: 150%;
+}*/
+
+h1{
+	font-size: 3.5vw;
+}
+.titleImg{
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+}
+a{
+	color: #052559;
+}
+a:hover{
+	color: #3a0209;
+}
+btn{
+	background-color: red;
+}

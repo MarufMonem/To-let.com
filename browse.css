@@ -1,0 +1,22 @@
+
+/*.container{
+	padding-top: 30px;
+	margin-left: 20%; 
+	
+}*/
+small{
+	color: red;
+	font-size: 14px;
+}
+.list-group{
+	width: 50%;
+	margin-left: 25%;
+}
+h1{
+	color: #062960;
+	padding-top: 10px;
+	text-align: center;
+}
+hr{
+	padding-bottom: 12px;
+}

@@ -1,0 +1,22 @@
+.container{
+	padding-top: 40px;
+}
+h1{
+	letter-spacing: 4px;
+	color: #033b96;
+}
+p{
+	color: grey;
+}
+.btn-primary{
+	background-color: #033b96;
+}
+small{
+	color: red;
+}
+a{
+	color: #052559;
+}
+a:hover{
+	color: #3a0209;
+}
